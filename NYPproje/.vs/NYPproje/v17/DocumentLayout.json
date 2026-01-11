@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Muhammad Gavin R\\OneDrive\\Dokumen\\GitHub\\Stok-ve-Satis-Takip\\NYPproje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00698FCD-3776-4CD1-8F8E-F112D86010A8}|NYPproje\\NYPproje.csproj|c:\\users\\muhammad gavin r\\onedrive\\dokumen\\github\\stok-ve-satis-takip\\nypproje\\nypproje\\forms\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00698FCD-3776-4CD1-8F8E-F112D86010A8}|NYPproje\\NYPproje.csproj|solutionrelative:nypproje\\forms\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00698FCD-3776-4CD1-8F8E-F112D86010A8}|NYPproje\\NYPproje.csproj|C:\\Users\\Muhammad Gavin R\\OneDrive\\Dokumen\\GitHub\\Stok-ve-Satis-Takip\\NYPproje\\nypproje\\forms\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00698FCD-3776-4CD1-8F8E-F112D86010A8}|NYPproje\\NYPproje.csproj|solutionrelative:nypproje\\forms\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00698FCD-3776-4CD1-8F8E-F112D86010A8}|NYPproje\\NYPproje.csproj|C:\\Users\\Muhammad Gavin R\\OneDrive\\Dokumen\\GitHub\\Stok-ve-Satis-Takip\\NYPproje\\nypproje\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00698FCD-3776-4CD1-8F8E-F112D86010A8}|NYPproje\\NYPproje.csproj|solutionrelative:nypproje\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00698FCD-3776-4CD1-8F8E-F112D86010A8}|NYPproje\\NYPproje.csproj|C:\\Users\\Muhammad Gavin R\\OneDrive\\Dokumen\\GitHub\\Stok-ve-Satis-Takip\\NYPproje\\nypproje\\dal\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00698FCD-3776-4CD1-8F8E-F112D86010A8}|NYPproje\\NYPproje.csproj|solutionrelative:nypproje\\dal\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00698FCD-3776-4CD1-8F8E-F112D86010A8}|NYPproje\\NYPproje.csproj|C:\\Users\\Muhammad Gavin R\\OneDrive\\Dokumen\\GitHub\\Stok-ve-Satis-Takip\\NYPproje\\nypproje\\service\\salesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00698FCD-3776-4CD1-8F8E-F112D86010A8}|NYPproje\\NYPproje.csproj|solutionrelative:nypproje\\service\\salesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00698FCD-3776-4CD1-8F8E-F112D86010A8}|NYPproje\\NYPproje.csproj|C:\\Users\\Muhammad Gavin R\\OneDrive\\Dokumen\\GitHub\\Stok-ve-Satis-Takip\\NYPproje\\nypproje\\domain\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00698FCD-3776-4CD1-8F8E-F112D86010A8}|NYPproje\\NYPproje.csproj|solutionrelative:nypproje\\domain\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00698FCD-3776-4CD1-8F8E-F112D86010A8}|NYPproje\\NYPproje.csproj|C:\\Users\\Muhammad Gavin R\\OneDrive\\Dokumen\\GitHub\\Stok-ve-Satis-Takip\\NYPproje\\nypproje\\domain\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00698FCD-3776-4CD1-8F8E-F112D86010A8}|NYPproje\\NYPproje.csproj|solutionrelative:nypproje\\domain\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductForm.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Gavin R\\OneDrive\\Dokumen\\GitHub\\Stok-ve-Satis-Takip\\NYPproje\\NYPproje\\Forms\\ProductForm.cs",
+              "RelativeDocumentMoniker": "NYPproje\\Forms\\ProductForm.cs",
+              "ToolTip": "C:\\Users\\Muhammad Gavin R\\OneDrive\\Dokumen\\GitHub\\Stok-ve-Satis-Takip\\NYPproje\\NYPproje\\Forms\\ProductForm.cs",
+              "RelativeToolTip": "NYPproje\\Forms\\ProductForm.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAADwv0cAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T13:29:17.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Muhammad Gavin R\\OneDrive\\Dokumen\\GitHub\\Stok-ve-Satis-Takip\\NYPproje\\NYPproje\\Forms\\ProductForm.cs",
+              "RelativeDocumentMoniker": "NYPproje\\Forms\\ProductForm.cs",
+              "ToolTip": "C:\\Users\\Muhammad Gavin R\\Downloads\\NYPproje-main\\NYPproje-main\\NYPproje\\NYPproje\\Forms\\ProductForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\NYPproje-main\\NYPproje-main\\NYPproje\\NYPproje\\Forms\\ProductForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T13:29:15.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SalesService.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Gavin R\\OneDrive\\Dokumen\\GitHub\\Stok-ve-Satis-Takip\\NYPproje\\NYPproje\\Service\\SalesService.cs",
+              "RelativeDocumentMoniker": "NYPproje\\Service\\SalesService.cs",
+              "ToolTip": "C:\\Users\\Muhammad Gavin R\\OneDrive\\Dokumen\\GitHub\\Stok-ve-Satis-Takip\\NYPproje\\NYPproje\\Service\\SalesService.cs",
+              "RelativeToolTip": "NYPproje\\Service\\SalesService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T13:14:59.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Gavin R\\OneDrive\\Dokumen\\GitHub\\Stok-ve-Satis-Takip\\NYPproje\\NYPproje\\Domain\\Customer.cs",
+              "RelativeDocumentMoniker": "NYPproje\\Domain\\Customer.cs",
+              "ToolTip": "C:\\Users\\Muhammad Gavin R\\OneDrive\\Dokumen\\GitHub\\Stok-ve-Satis-Takip\\NYPproje\\NYPproje\\Domain\\Customer.cs",
+              "RelativeToolTip": "NYPproje\\Domain\\Customer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T13:14:43.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sales.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Gavin R\\OneDrive\\Dokumen\\GitHub\\Stok-ve-Satis-Takip\\NYPproje\\NYPproje\\Domain\\Sales.cs",
+              "RelativeDocumentMoniker": "NYPproje\\Domain\\Sales.cs",
+              "ToolTip": "C:\\Users\\Muhammad Gavin R\\OneDrive\\Dokumen\\GitHub\\Stok-ve-Satis-Takip\\NYPproje\\NYPproje\\Domain\\Sales.cs",
+              "RelativeToolTip": "NYPproje\\Domain\\Sales.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T13:14:29.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Gavin R\\OneDrive\\Dokumen\\GitHub\\Stok-ve-Satis-Takip\\NYPproje\\NYPproje\\DAL\\ProductDAO.cs",
+              "RelativeDocumentMoniker": "NYPproje\\DAL\\ProductDAO.cs",
+              "ToolTip": "C:\\Users\\Muhammad Gavin R\\OneDrive\\Dokumen\\GitHub\\Stok-ve-Satis-Takip\\NYPproje\\NYPproje\\DAL\\ProductDAO.cs",
+              "RelativeToolTip": "NYPproje\\DAL\\ProductDAO.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T13:14:07.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Muhammad Gavin R\\OneDrive\\Dokumen\\GitHub\\Stok-ve-Satis-Takip\\NYPproje\\NYPproje\\Forms\\mainForm.cs",
+              "RelativeDocumentMoniker": "NYPproje\\Forms\\mainForm.cs",
+              "ToolTip": "C:\\Users\\Muhammad Gavin R\\Downloads\\NYPproje-main\\NYPproje-main\\NYPproje\\NYPproje\\Forms\\mainForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\NYPproje-main\\NYPproje-main\\NYPproje\\NYPproje\\Forms\\mainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T19:26:56.666Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
