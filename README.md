@@ -127,24 +127,24 @@ Proje, aşağıdaki katmanlardan oluşmaktadır:
 ## 📸 Ekran Görüntüleri
 
 ### Giriş Ekranı (Login Form)
-![LOGIN FORM](https://github.com/Ragazzo26/NYPproje/blob/main/Pict/login.png.png?raw=true)
+![LOGIN FORM](https://github.com/Ragazzo26/Stok-ve-Satis-Takip/blob/main/Pict/login.png.png?raw=true)
 ### AnaSayfa (Main Menu)
-![MAIN MENU](https://github.com/Ragazzo26/NYPproje/blob/main/Pict/menu.png.png?raw=true)
+![MAIN MENU](https://github.com/Ragazzo26/Stok-ve-Satis-Takip/blob/main/Pict/menu.png.png?raw=true)
 ### Ürün Yönetimi (ProductForm)
-![PRODUCT FORM](https://github.com/Ragazzo26/NYPproje/blob/main/Pict/product.png.png?raw=true)
+![PRODUCT FORM](https://github.com/Ragazzo26/Stok-ve-Satis-Takip/blob/main/Pict/product.png.png?raw=true)
 ### Müşteri Yönetimi (CustomerForm)
-![CUSTOMER FORM](https://github.com/Ragazzo26/NYPproje/blob/main/Pict/customer.png.png?raw=true)
+![CUSTOMER FORM](https://github.com/Ragazzo26/Stok-ve-Satis-Takip/blob/main/Pict/customer.png.png?raw=true)
 ### Satış Ekranı (SalesForm)
-![SALES FORM](https://github.com/Ragazzo26/NYPproje/blob/main/Pict/sales.png.png?raw=true)
+![SALES FORM](https://github.com/Ragazzo26/Stok-ve-Satis-Takip/blob/main/Pict/sales.png.png?raw=true)
 ### Raporlama Ekranı (ReportForm)
-![REPORT FORM](https://github.com/Ragazzo26/NYPproje/blob/main/Pict/report.png.png?raw=true)
+![REPORT FORM](https://github.com/Ragazzo26/Stok-ve-Satis-Takip/blob/main/Pict/report.png.png?raw=true)
 
 ---
 
 ## ▶ YouTube Proje Tanıtım Videosu
 
 Proje tanıtım videosu için:  
-[Tiklayin]()
+[Tıklayın]()
 
 ---
 
