@@ -144,7 +144,7 @@ Proje, aşağıdaki katmanlardan oluşmaktadır:
 ## ▶ YouTube Proje Tanıtım Videosu
 
 Proje tanıtım videosu için:  
-[Tıklayın]()
+[Tıklayın](https://youtu.be/YYCDT1hejaM?si=GI866lwCJQ1vnOAs)
 
 ---
 
